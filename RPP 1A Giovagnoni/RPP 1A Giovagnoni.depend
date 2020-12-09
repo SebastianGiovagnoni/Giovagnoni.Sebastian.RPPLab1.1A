@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1607521190 source:c:\users\supra\desktop\rpp 1a giovagnoni\cliente.c
+	"prestamos.h"
+	<stdio.h>
+	<stdlib.h>
+	"generics.h"
+	"cliente.h"
+
+1607522403 c:\users\supra\desktop\rpp 1a giovagnoni\cliente.h
+
+1607035789 source:c:\users\supra\desktop\rpp 1a giovagnoni\generics.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"generics.h"
+
+1607031068 c:\users\supra\desktop\rpp 1a giovagnoni\generics.h
+
+1607521396 source:c:\users\supra\desktop\rpp 1a giovagnoni\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestamos.h"
+	"cliente.h"
+
+1607522403 c:\users\supra\desktop\rpp 1a giovagnoni\prestamos.h
+
+1607520905 source:c:\users\supra\desktop\rpp 1a giovagnoni\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prestamos.h"
+	"cliente.h"
+	"generics.h"
+	"lib.h"
+
+1607522403 c:\users\supra\desktop\rpp 1a giovagnoni\lib.h
+
+1607521396 source:c:\users\supra\desktop\rpp 1a giovagnoni\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestamos.h"
+	"cliente.h"
+	"generics.h"
+	"lib.h"
+
